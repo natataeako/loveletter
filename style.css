@@ -65,7 +65,10 @@ body {
 	animation-play-state: running;
 }
 
-#messageState {}
+#messageState {
+	width: 100%;
+	height: 100%;
+}
 
 @keyframes beat {
 	0% {
